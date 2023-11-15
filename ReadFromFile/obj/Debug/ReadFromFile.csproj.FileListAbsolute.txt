@@ -1,0 +1,13 @@
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\bin\Debug\ReadFile.exe.config
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\bin\Debug\ReadFile.exe
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\bin\Debug\ReadFile.pdb
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\obj\Debug\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\obj\Debug\ReadFile.exe
+C:\Users\Nolan Pawelski\Desktop\ReadToFile\obj\Debug\ReadFile.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\bin\Debug\ReadFile.exe.config
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\bin\Debug\ReadFile.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\bin\Debug\ReadFile.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\obj\Debug\ReadFromFile.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\obj\Debug\ReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\obj\Debug\ReadFile.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\ReadFromFile\obj\Debug\ReadFile.pdb

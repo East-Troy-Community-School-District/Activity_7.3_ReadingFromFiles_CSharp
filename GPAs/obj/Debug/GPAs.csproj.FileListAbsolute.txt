@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\GPAs\bin\Debug\GPAs.exe.config
+C:\Users\pawel\Desktop\GPAs\bin\Debug\GPAs.exe
+C:\Users\pawel\Desktop\GPAs\bin\Debug\GPAs.pdb
+C:\Users\pawel\Desktop\GPAs\obj\Debug\GPAs.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\GPAs\obj\Debug\GPAs.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\GPAs\obj\Debug\GPAs.exe
+C:\Users\pawel\Desktop\GPAs\obj\Debug\GPAs.pdb

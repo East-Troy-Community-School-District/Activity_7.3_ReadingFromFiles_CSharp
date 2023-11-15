@@ -1,0 +1,7 @@
+C:\Users\pawel\Desktop\MaximumMinimum\bin\Debug\MaximumMinimum.exe.config
+C:\Users\pawel\Desktop\MaximumMinimum\bin\Debug\MaximumMinimum.exe
+C:\Users\pawel\Desktop\MaximumMinimum\bin\Debug\MaximumMinimum.pdb
+C:\Users\pawel\Desktop\MaximumMinimum\obj\Debug\MaximumMinimum.csproj.AssemblyReference.cache
+C:\Users\pawel\Desktop\MaximumMinimum\obj\Debug\MaximumMinimum.csproj.CoreCompileInputs.cache
+C:\Users\pawel\Desktop\MaximumMinimum\obj\Debug\MaximumMinimum.exe
+C:\Users\pawel\Desktop\MaximumMinimum\obj\Debug\MaximumMinimum.pdb

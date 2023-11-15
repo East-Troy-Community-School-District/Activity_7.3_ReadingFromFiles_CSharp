@@ -1,0 +1,14 @@
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\bin\Debug\TopTenVideoGames.exe.config
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\bin\Debug\TopTenVideoGames.exe
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\bin\Debug\TopTenVideoGames.pdb
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.csprojAssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.exe
+C:\Users\Nolan Pawelski\Desktop\TopTenVideoGames\obj\Debug\TopTenVideoGames.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\bin\Debug\TopTenVideoGames.exe.config
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\bin\Debug\TopTenVideoGames.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\bin\Debug\TopTenVideoGames.pdb
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\obj\Debug\TopTenVideoGames.csproj.AssemblyReference.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\obj\Debug\TopTenVideoGames.csproj.CoreCompileInputs.cache
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\obj\Debug\TopTenVideoGames.exe
+C:\Users\pawel\OneDrive - East Troy Community School District\Developing_Desktop_Applications\2023-2024\Unit_7_FileHandling\Lesson_3_ReadingFromFiles\Programs\TopTenVideoGames\obj\Debug\TopTenVideoGames.pdb

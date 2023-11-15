@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPAs", "GPAs.csproj", "{F89E16D5-D2A2-45AA-AB52-1C9A6CCE3987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F89E16D5-D2A2-45AA-AB52-1C9A6CCE3987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F89E16D5-D2A2-45AA-AB52-1C9A6CCE3987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F89E16D5-D2A2-45AA-AB52-1C9A6CCE3987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F89E16D5-D2A2-45AA-AB52-1C9A6CCE3987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA721C92-3E60-4FC2-AA24-B53D2D3F5720}
+	EndGlobalSection
+EndGlobal
